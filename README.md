@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi
+
+## Member of VEX Robotics Competition team 537K
+## One time I inhaled a fly
 
 <!--
 **Kntobor/Kntobor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
