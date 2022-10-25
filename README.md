@@ -1,5 +1,5 @@
 #### programmer @ VRC team 537K
-#### currently using C++, C#, and GDScript
+#### currently using C++ and C#
 #### i use arch btw
 
 <!--
