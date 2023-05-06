@@ -1,6 +1,6 @@
 #### programmer @ VRC team 537K
 #### currently using C++, C#, and Unity
-#### i use arch btw
+#### linux fanatic
 
 <!--
 **Kntobor/Kntobor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
