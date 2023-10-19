@@ -1,5 +1,5 @@
 #### programmer @ VRC team 537K
-#### currently using c++, c#, and unity
+#### currently using c++ and java
 #### linux cultist
 
 <!--
